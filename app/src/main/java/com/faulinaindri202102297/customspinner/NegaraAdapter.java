@@ -56,7 +56,7 @@ public class NegaraAdapter extends BaseAdapter {
                 break;
 
             case "Belgia":
-                imageView1.setImageResource(R.drawable.Belgia);
+                imageView1.setImageResource(R.drawable.belgia);
                 break;
 
             case "Hungary":
@@ -68,7 +68,7 @@ public class NegaraAdapter extends BaseAdapter {
                 break;
 
             case "Slovenia":
-                imageView1.setImageResource(R.drawable.Slovenia);
+                imageView1.setImageResource(R.drawable.slovenia);
                 break;
 
         }
